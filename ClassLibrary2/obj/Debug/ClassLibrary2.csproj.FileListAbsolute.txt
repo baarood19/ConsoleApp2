@@ -1,0 +1,5 @@
+K:\DEMO_BUILD\ConsoleApp2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+K:\DEMO_BUILD\ConsoleApp2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+K:\DEMO_BUILD\ConsoleApp2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+K:\DEMO_BUILD\ConsoleApp2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+K:\DEMO_BUILD\ConsoleApp2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

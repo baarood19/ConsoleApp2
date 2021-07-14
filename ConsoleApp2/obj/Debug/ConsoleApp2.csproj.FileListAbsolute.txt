@@ -1,0 +1,10 @@
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary2.dll
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary3.dll
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary2.pdb
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\bin\Debug\ClassLibrary3.pdb
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+K:\DEMO_BUILD\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
